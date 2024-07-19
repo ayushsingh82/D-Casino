@@ -28,11 +28,10 @@ const gamingl3chain = {
     default: { http: ['https://rpc2.sepolia.org'] },
   },
   additional: {
-      http: ['https://mainnet-rpc.ubitscan.com/']
+      http: ['https://dchaintestnet-2713017997578000-1.jsonrpc.testnet.sagarpc.io/']
     }
   // blockExplorers: {
-  //   default: { name: 'Blockscout', url: 'https://explorerl2new-useful-aquamarine-rhinoceros-dufw1ydgcn.t.conduit.xyz' },
-  // },
+
 
 
 };
