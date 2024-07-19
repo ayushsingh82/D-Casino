@@ -22,7 +22,7 @@ import { id } from "ethers/lib/utils.js";
 
 const gamingl3chain = {
   id: 11155111,
-  name: 'UBIT-Casino',
+  name: 'D-Casino',
   nativeCurrency: { name: 'Ether', symbol: 'ETH', decimals: 18 },
   rpcUrls: {
     default: { http: ['https://rpc2.sepolia.org'] },

@@ -26,7 +26,7 @@ export default function TitleSign() {
       <span>M</span>
       <span>E</span>
       <span>ON</span>
-      <span>UBIT</span>
+      <span>D-Chain</span>
     </h1>
   );
 }
